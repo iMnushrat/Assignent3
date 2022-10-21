@@ -1,0 +1,50 @@
+h1 {
+    color: aliceblue;
+    background-color: rgb(13, 13, 91);
+    font-size: 50pxs
+}
+
+head {
+    background-color: rgb(13, 13, 91);
+}
+body {
+    background-color: rgb(13, 13, 91);
+}
+h1 {
+    font-weight: bolder;
+}
+p {
+    font-size: medium;
+    color: aliceblue;
+}
+h2 {
+    font-size: 30px;
+    color: rgb(36, 231, 14);
+}
+h3 {
+    color: aliceblue;
+    font-size: 20px;
+}
+.awesome {
+      color: aliceblue;
+      font-size: 20px;
+}
+.cool {
+    font-size: 25px;
+    color: rgb(36, 231, 14);
+}
+.Back {
+    color: rgb(146, 5, 5);
+    font-size: larger;
+}
+img {
+    width: 4cm;
+    height: 6cm;
+}
+.header {
+    text-align: center;
+}
+.happy {
+    text-align: center;
+    background-color: rgb(23, 23, 78);
+}
